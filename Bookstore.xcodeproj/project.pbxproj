@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		99B50F221AB48D7900606606 /* Bookstore */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Bookstore; sourceTree = BUILT_PRODUCTS_DIR; };
 		99B50F251AB48D7900606606 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		99B50F2C1AB48DE400606606 /* Sales_item.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sales_item.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				99B50F251AB48D7900606606 /* main.cpp */,
+				99B50F2C1AB48DE400606606 /* Sales_item.h */,
 			);
 			path = Bookstore;
 			sourceTree = "<group>";
